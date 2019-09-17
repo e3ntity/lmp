@@ -1,4 +1,4 @@
-#LMP - Lukas' Microprocessor
+# LMP - Lukas' Microprocessor
 
 
 ![architecture-01](/docs/architecture-01.png)
